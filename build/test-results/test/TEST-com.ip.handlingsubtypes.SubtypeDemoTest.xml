@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.handlingsubtypes.SubtypeDemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-22T00:54:50" hostname="DESKTOP-QA2NH3N" time="0.4">
+  <properties/>
+  <testcase name="subtypeDemoTest" classname="com.ip.handlingsubtypes.SubtypeDemoTest" time="0.4"/>
+  <system-out><![CDATA[{
+  "members" : [ {
+    "type" : "MemberAdult",
+    "name" : "John Smith",
+    "dob" : "5/29/83",
+    "memberID" : "IX10B2914"
+  }, {
+    "type" : "MemberChild",
+    "dob" : "3/4/2014",
+    "parentName" : "John Smith"
+  } ]
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
